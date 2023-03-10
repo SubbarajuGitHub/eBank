@@ -1,0 +1,21 @@
+.login-div {
+  background-color: #152850;
+  height: 100vh;
+  padding: 50px;
+}
+.logo {
+  height: 400px;
+  margin-top: 100px;
+  margin-right: 300px;
+  margin-left: 100px;
+}
+.image-input-div {
+  background-color: #e0eefe;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  display: flex;
+}
+.form-div {
+  background-color: white;
+  padding: 50px;
+}
